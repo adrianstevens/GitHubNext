@@ -1,0 +1,30 @@
+{
+  "items": {
+    "1": {
+      "type": "text",
+      "text": "Hello World",
+      "position": [
+        2000,
+        2090
+      ],
+      "dimensions": [
+        200,
+        100
+      ],
+      "id": 1
+    },
+    "2": {
+      "type": "text",
+      "text": "Hello GitHubNext",
+      "position": [
+        2240,
+        2090
+      ],
+      "dimensions": [
+        200,
+        100
+      ],
+      "id": 2
+    }
+  }
+}
