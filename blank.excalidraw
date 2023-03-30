@@ -1,10 +1,74 @@
 {
   "type": "excalidraw",
   "version": 2,
-  "source": "https://blocks-sandbox.githubnext.com",
-  "elements": [],
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "type": "rectangle",
+      "version": 22,
+      "versionNonce": 2005302006,
+      "isDeleted": false,
+      "id": "MFaYTZNMorIbN8L2e2Qa3",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 693.6000366210938,
+      "y": 189.80003356933594,
+      "strokeColor": "#5f3dc4",
+      "backgroundColor": "transparent",
+      "width": 487.20001220703125,
+      "height": 223.99998474121094,
+      "seed": 143670365,
+      "groupIds": [],
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [],
+      "updated": 1680135935387,
+      "link": null,
+      "locked": false
+    },
+    {
+      "type": "text",
+      "version": 119,
+      "versionNonce": 1336559734,
+      "isDeleted": false,
+      "id": "yy8CSPC2mC74_Uek8xTu1",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 782.4000549316406,
+      "y": 281.39996337890625,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 309.65185546875,
+      "height": 35,
+      "seed": 1487343475,
+      "groupIds": [],
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1680135943318,
+      "link": null,
+      "locked": false,
+      "fontSize": 28,
+      "fontFamily": 1,
+      "text": "My drawing is awesome",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "My drawing is awesome",
+      "lineHeight": 1.25
+    }
+  ],
   "appState": {
     "gridSize": null,
     "viewBackgroundColor": "#ffffff"
-  }
+  },
+  "files": {}
 }
